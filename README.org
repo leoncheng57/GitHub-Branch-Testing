@@ -1,0 +1,4 @@
+* sample
+<2015-10-28 Wed>
+Using this to test and learn about Github stuff
+Softdev class
